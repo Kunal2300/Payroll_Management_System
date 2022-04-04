@@ -1,5 +1,11 @@
 # payroll_management_system
 A company payroll management system made with Django and MySQL which lets the admin set income and credentials for the employee and provides leave request and approval functionality.
+
+Collaborated by:-
+  -> Kunal More   111903043
+  -> Priyanshu Nandagawali 111903065
+  
+  
 ## Installation Steps:
 * Install Django
 * Install mysqlclient using:
@@ -13,7 +19,7 @@ A company payroll management system made with Django and MySQL which lets the ad
   python manage.py migrate
   python populate_user.py #To make dummy employee and admin account
   ```
-*             \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\on cmd run,
+* on cmd run,
 ```
 python manage.py runserver
 ```
